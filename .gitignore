@@ -1,0 +1,9 @@
+#游戏素材资源
+/Resources
+
+#IDE 配置文件
+/PixelSwordsman/.wing/
+
+#中间输出文件
+/PixelSwordsman/bin-debug/
+
