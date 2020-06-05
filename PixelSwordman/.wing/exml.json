@@ -1,0 +1,28 @@
+{
+    "17283c4892c": {
+        "path": "..\\resource\\scene\\MainMenu.ts",
+        "class": "MainMenu",
+        "parentPath": "",
+        "backgroundX": 0,
+        "backgroundY": 0,
+        "backgroundWidth": -1,
+        "backgroundHeight": -1,
+        "useBgImage": true,
+        "useBgColor": true,
+        "backgroundAlpha": 100
+    },
+    "global": {
+        "globalRulerEnable": true,
+        "globalAdsorbEnable": false
+    },
+    "17283cd9021": {
+        "path": "..\\resource\\scene\\MainMenu.ts",
+        "class": "MainMenu",
+        "parentPath": ""
+    },
+    "17283d230cf": {
+        "path": "MainMenu.ts",
+        "class": "MainMenu",
+        "parentPath": ""
+    }
+}

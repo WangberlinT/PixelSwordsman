@@ -105,5 +105,5 @@
 
 游戏界面导航结构图
 
-![Menu Nevigation](.\PixelSwordsman-docs-zh-cn\Menu Nevigation.png)
+![Menu Nevigation](Menu Nevigation.png)
 
