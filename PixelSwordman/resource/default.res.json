@@ -9,8 +9,12 @@
 			"name": "swordman"
 		},
 		{
-			"keys": "Menu Background_png",
+			"keys": "Menu Background_png,Mapbg_png",
 			"name": "background"
+		},
+		{
+			"keys": "BuildingLv1_png",
+			"name": "levelmap"
 		}
 	],
 	"resources": [
@@ -178,6 +182,16 @@
 			"url": "assets/Background/Menu Background.png",
 			"type": "image",
 			"name": "Menu Background_png"
+		},
+		{
+			"url": "assets/Background/Mapbg.png",
+			"type": "image",
+			"name": "Mapbg_png"
+		},
+		{
+			"url": "assets/LevelMap/BuildingLv1.png",
+			"type": "image",
+			"name": "BuildingLv1_png"
 		}
 	]
 }

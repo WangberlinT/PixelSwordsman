@@ -13,7 +13,8 @@
         "eui.VScrollBar": "resource/eui_skins/VScrollBarSkin.exml",
         "eui.VSlider": "resource/eui_skins/VSliderSkin.exml",
         "eui.ItemRenderer": "resource/eui_skins/ItemRendererSkin.exml",
-        "MainMenu": "resource/eui_skins/MainMenu.exml"
+        "MainMenu": "resource/eui_skins/MainMenu.exml",
+        "GameScene": "resource/eui_skins/GameScene.exml"
     },
     "autoGenerateExmlsList": true,
     "exmls": [

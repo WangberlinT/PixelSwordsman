@@ -24,5 +24,10 @@
         "path": "MainMenu.ts",
         "class": "MainMenu",
         "parentPath": ""
+    },
+    "17284117552": {
+        "path": "scene\\GameScene.ts",
+        "class": "GameScene",
+        "parentPath": ""
     }
 }
