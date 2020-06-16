@@ -3,8 +3,8 @@
 	<w:Config id="17283d230cf" ></w:Config>
 	<e:Image source="Menu Background_png" y="0" fillMode="scale" x="0" anchorOffsetX="0" width="720" anchorOffsetY="0" height="1280" smoothing="false"/>
 	<e:Group width="400" height="240" horizontalCenter="0" y="900">
-		<e:Button id="Start" label="START" width="250" horizontalCenter="0" x="129" scaleX="1" scaleY="1" top="0" height="50"/>
-		<e:Button id="Option" label="OPTION" width="250" horizontalCenter="0" y="80"/>
-		<e:Button id="Quit" label="QUIT" width="250" y="160" horizontalCenter="0"/>
+		<e:Button id="startButton" label="START" width="250" horizontalCenter="0" x="129" scaleX="1" scaleY="1" top="0" height="50" touchEnabled="true"/>
+		<e:Button id="optionButton" label="OPTION" width="250" horizontalCenter="0" y="80" touchEnabled="true"/>
+		<e:Button id="quitButton" label="QUIT" width="250" y="160" horizontalCenter="0" touchEnabled="true"/>
 	</e:Group>
 </e:Skin>
